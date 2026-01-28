@@ -21,7 +21,12 @@ DialogManager	DialogFragment
 
 BottomSheetManager	BottomSheetDialogFragment
 ```
-
+### Install
+```gradle
+	dependencies {
+	        implementation 'com.github.JustZet:ActivityHelper:1.0.0'
+	}
+```
 
 ### Examples:
 ## ActivityManager
