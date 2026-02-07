@@ -1,4 +1,4 @@
-package com.devmob.activityhelper;
+package com.devmob.activityhelper.managers;
 
 
 import android.app.Activity;
@@ -11,7 +11,6 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.FrameLayout;
 
-import androidx.annotation.AnimRes;
 import androidx.annotation.StyleRes;
 
 public class DialogManager {

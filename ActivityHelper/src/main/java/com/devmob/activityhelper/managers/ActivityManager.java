@@ -1,4 +1,4 @@
-package com.devmob.activityhelper;
+package com.devmob.activityhelper.managers;
 
 import android.app.Activity;
 import android.graphics.Color;
